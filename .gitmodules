@@ -1,0 +1,6 @@
+[submodule "apps/Quotalis"]
+	path = apps/Quotalis
+	url = https://github.com/soybean-alien/Quotalis.git
+[submodule "apps/Token-Burn-Gauge"]
+	path = apps/Token-Burn-Gauge
+	url = https://github.com/soybean-alien/Token-Burn-Gauge.git
